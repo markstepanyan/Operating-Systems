@@ -2,9 +2,9 @@
 
 int main() {
     int a = 1000;
-    char b = 'A';
-    double c = 3.14;
-    short d = 5;
+    char b = 'G';
+    double c = 12.56789;
+    short d = 58;
 
     printf("Size of int: %zu bytes\n", sizeof(a));
     printf("Size of char: %zu bytes\n", sizeof(b));
